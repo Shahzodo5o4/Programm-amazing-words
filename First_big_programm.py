@@ -1,3 +1,14 @@
+"""
+20/01/2023
+
+Amazing word writer
+
+#07-dars: Lists
+
+Creator: Shahzod Bahronov
+"""
+
+
 name = input("Enter word:  ")
 print("\n\n")
 for c in name:
